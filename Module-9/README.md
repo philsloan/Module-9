@@ -1,18 +1,9 @@
-# Professional README Generator Starter Code
-
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-
-
-# <Your-Project-Title>
+# <# Professional README Generator Starter Code>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This is the project for Module-9 UC Berkeley. I was motivated to do well and get a good grade. I built this project to understand node.js and its way of performing. I hope that this project will prove my knowledge of the module. I feel I have learned even more when it comes to the field of javascript
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Table of Contents (Optional)
 
@@ -25,28 +16,30 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+The process to start the project is quite simple.
+- in the command line type "npm init" 
+- confirm you have package.json
+- Then in command line type "npm install inquirer@6.5.0
+- confirm you have node_modules
+- create file index.js
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Here I will provide a video walk through and demonstration.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+https://drive.google.com/file/d/1n-pDbiRE0eB-QY3plvjiF21xtERcc0Js/view
+    
 
 ## Credits
+Links
+    - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+    - https://www.screencastify.com/
 
-List your collaborators, if any, with links to their GitHub profiles.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT
 
 ---
